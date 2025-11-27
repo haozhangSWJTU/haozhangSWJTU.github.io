@@ -123,3 +123,7 @@ h1:before, .anchor:before {
   flex: 0 0 340px !important;   /* 默认大概 260 左右，你可以再调大到 360、380 */
   max-width: 340px !important;
 }
+
+.page {
+  margin-left: 360px !important;
+}
