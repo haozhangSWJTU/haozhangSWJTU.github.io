@@ -107,13 +107,6 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-/* === Custom overrides: avatar shape & size === */
-.author__avatar img {
-  width: 280px;      /* 想展示多大就改数字 */
-  height: auto;      /* 保持原图比例，不拉伸 */
-  border-radius: 0 !important; /* 去掉圆角，变成原始形状 */
-  object-fit: contain; /* 确保完整展示不裁切 */
-}
 
 /* === Super-size avatar === */
 
