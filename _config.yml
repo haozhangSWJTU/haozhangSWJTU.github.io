@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Hao Zhang (张浩) | SWJTU"
 description              : "<br>"
+url                      : "https://haozhangswjtu-scai.github.io"
+baseurl                  : ""          # 用户主页仓库，必须是空字符串
 repository               : "https://github.com/haozhangSWJTU-SCAI/"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "<center>Hao Zhang</center> <center>(张浩)</center>"
-  avatar           : "images/zhanghao.png"
+  avatar           : "/images/zhanghao.png"
   bio              : "<center>Southwest Jiaotong University (SWJTU)<center>"
   location         : "Chengdu, China"
   employer         :
