@@ -109,7 +109,7 @@ h1:before, .anchor:before {
 }
 /* === Custom overrides: avatar shape & size === */
 .author__avatar img {
-  width: 220px;      /* 想展示多大就改数字 */
+  width: 280px;      /* 想展示多大就改数字 */
   height: auto;      /* 保持原图比例，不拉伸 */
   border-radius: 0 !important; /* 去掉圆角，变成原始形状 */
   object-fit: contain; /* 确保完整展示不裁切 */
