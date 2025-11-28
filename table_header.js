@@ -2,7 +2,7 @@ document.write("<table width=\"850\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
 document.write("<td> <img src=\"Images/zhanghao.png\" alt=\"Hao Zhang\"");
-document.write("width=\"420\" height=\"250\"> <\/td>");
+document.write("width=\"400\" height=\"230\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Hao Zhang 张 浩</h1>");
 document.write("<br>");
