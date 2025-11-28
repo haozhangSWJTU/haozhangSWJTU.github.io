@@ -1,7 +1,7 @@
 document.write("<table width=\"850\" border=\"0\" height=\"184\">");
 document.write("<tbody>");
 document.write("<tr>");
-document.write("<td> <img src=\"Images/athens-lbz.JPG\" alt=\"Hao Zhang\"");
+document.write("<td> <img src=\"Images/zhanghao.PNG\" alt=\"Hao Zhang\"");
 document.write("width=\"350\" height=\"250\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Hao Zhang 张 浩</h1>");
